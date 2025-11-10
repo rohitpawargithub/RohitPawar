@@ -1,7 +1,7 @@
 ![logo](banner.png)
 
 
-<h1 align="center">Hi 👋, I'm Gaurav Bharane</h1>
+<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 <h3 align="center">I am a qualified and professional Frontend web developer with a experience in Redhat Linux administration. looking forward for my Devops journey.</h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
@@ -16,19 +16,19 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Mybalancer](https://github.com/Gauravbharane/mybalancer.git)
+- 🔭 I’m currently working on [Mybalancer]()
 
 - 🌱 I’m currently learning **React, Terraform, AWS, CHEF, Jenkins**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://linktr.ee/gauravbharane)
+- 👨‍💻 All of my projects are available at my [Portfolio]()
 
-- 📝 I regularly write articles on [gauravbharane.medium.com](gauravbharane.medium.com)
+- 📝 I regularly write articles on [gauravbharane.medium.com]()
 
 - 💬 Ask me about **Linux, Redhat, Linode Cloud, Web Development**
 
 - 📫 How to reach me **gauravbharane1839@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://gauravsresume.netlify.app/)
+- 📄 Know about my experiences [My Resume]()
 
 
 
