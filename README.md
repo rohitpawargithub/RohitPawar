@@ -22,12 +22,12 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio]()
 
-- 📝 I regularly write articles on [https://medium.com/@pawarrohitkashinath]()
+- 📝 I regularly write articles on [https://medium.com/@pawarrohitkashinath](https://medium.com/@pawarrohitkashinath)
 
 - 💬 Ask me about **Linux, Redhat, Linode Cloud, Web Development**
 
 - 📫 How to reach me **pawarrohitkashinath@gmail.com**
-- 
+
 - 📄 Know about my experiences [My Resume]()
 
 
