@@ -8,9 +8,9 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/r0hit_9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_bharane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-bharane" height="30" width="40" /></a>
-<a href="https://medium.com/@gauravbharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravbharane" height="30" width="40" /></a>
+<a href="https://x.com/r0hit_9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit-pawar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-pawar-4b4363285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-pawar" height="30" width="40" /></a>
+<a href="https://medium.com/@pawarrohitkashinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rohit-pawar" height="30" width="40" /></a>
 </p>
 
 <br/>
